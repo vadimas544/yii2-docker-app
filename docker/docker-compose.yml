@@ -43,7 +43,7 @@ services:
       # Пароль к БД
       MYSQL_ROOT_PASSWORD: root
       # Создаваемая по умолчанию бд
-      MYSQL_DATABASE: yii-template-db
+      MYSQL_DATABASE: beesweet_db
     # Линкуем внешнюю папку для хранения БД
     volumes:
       - "./database:/var/lib/mysql"
