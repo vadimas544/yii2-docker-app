@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/codeception/base" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/bower-asset/punycode" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/bower-asset/yii2-pjax" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/bower-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/bower-asset/jquery" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/bower-asset/inputmask" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/yiisoft/yii2-bootstrap" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/yiisoft/yii2-faker" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/yiisoft/yii2-swiftmailer" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/codeception/phpunit-wrapper" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/codeception/verify" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/composer" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/beesweet.ua/vendor/symfony/service-contracts" />
+    </include_path>
+  </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="b1a7a56a-afd0-4b2d-9e77-ffb7a0e18c65" name="app" home="docker-compose://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="app" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false">
+          <dockerComposeConfigurationPaths>
+            <item value="$PROJECT_DIR$/docker/docker-compose.yml" />
+          </dockerComposeConfigurationPaths>
+          <envs />
+          <type_data command="RUN" />
+        </remote_data>
+      </interpreter>
+    </interpreters>
+  </component>
+  <component name="PhpInterpretersPhpInfoCache">
+    <phpInfoCache>
+      <interpreter name="app">
+        <phpinfo binary_type="PHP" php_cli="/usr/local/bin/php" path_separator=":" version="7.3.8">
+          <additional_php_ini>/usr/local/etc/php/conf.d/docker-php-ext-exif.ini, /usr/local/etc/php/conf.d/docker-php-ext-gd.ini, /usr/local/etc/php/conf.d/docker-php-ext-intl.ini, /usr/local/etc/php/conf.d/docker-php-ext-mysqli.ini, /usr/local/etc/php/conf.d/docker-php-ext-opcache.ini, /usr/local/etc/php/conf.d/docker-php-ext-pdo_mysql.ini, /usr/local/etc/php/conf.d/docker-php-ext-pdo_pgsql.ini, /usr/local/etc/php/conf.d/docker-php-ext-pgsql.ini, /usr/local/etc/php/conf.d/docker-php-ext-soap.ini, /usr/local/etc/php/conf.d/docker-php-ext-sodium.ini, /usr/local/etc/php/conf.d/docker-php-ext-xsl.ini, /usr/local/etc/php/conf.d/docker-php-ext-zip.ini, /usr/local/etc/php/conf.d/docker-vars.ini, /usr/local/etc/php/conf.d/redis.ini</additional_php_ini>
+          <configuration_file />
+          <configuration_options>
+            <configuration_option name="include_path" value=".:/usr/local/lib/php" />
+          </configuration_options>
+          <debuggers />
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="Zend OPcache" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="exif" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="ftp" />
+            <extension name="gd" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="intl" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="openssl" />
+            <extension name="pcre" />
+            <extension name="pdo_mysql" />
+            <extension name="pdo_pgsql" />
+            <extension name="pdo_sqlite" />
+            <extension name="pgsql" />
+            <extension name="posix" />
+            <extension name="readline" />
+            <extension name="redis" />
+            <extension name="session" />
+            <extension name="soap" />
+            <extension name="sodium" />
+            <extension name="sqlite3" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="xsl" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+    </phpInfoCache>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/beesweet.ua/vendor/autoload.php" phpunit_phar_path="" />
+      <phpunit_by_interpreter interpreter_id="b1a7a56a-afd0-4b2d-9e77-ffb7a0e18c65" load_method="CUSTOM_LOADER" custom_loader_path="/var/www/beesweet.ua/vendor/autoload.php" phpunit_phar_path="" />
+    </phpunit_settings>
+  </component>
+</project>
